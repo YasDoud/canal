@@ -1,0 +1,8 @@
+#target folder
+target/
+bin/
+#classPath and project
+.classpath
+.project
+out/
+.idea/
